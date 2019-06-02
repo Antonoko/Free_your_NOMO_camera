@@ -38,4 +38,5 @@ NOMO是一款提供多种模拟胶片相机的应用，拟物体验与模拟后�
 
 ----
 本文档仅用于学习交流用途，禁止用于商业行为。内部素材版权归NOMO所有。
+
 更多该项目的支持信息：[tonoko.moe上 的 Free your NOMO](http://tonoko.moe/blog/2019/05/26/free-your-nomo/)
